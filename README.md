@@ -23,7 +23,8 @@ Follwoing framework has been use to design the template--
 3) Spring AOP
 4) Spring boot Actuator
 5) Spring Boot DevTools
-6) MySql Database
+6) Spring Swagger
+7) MySql Database
 
 
 This template has been desigh from the scratch for Spring Boot Microservices.
